@@ -13,4 +13,5 @@ public class StringInterpreterTest extends TestCase {
         Assert.assertEquals("Unknown data", StringInterpreter.interpret("zdsdhjhggh"));
     }
 
+
 }
