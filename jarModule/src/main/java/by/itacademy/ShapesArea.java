@@ -1,6 +1,6 @@
 package by.itacademy;
 import java.lang.Math;
-
+//eyunets useless clas
 public class ShapesArea {
 	double calculateSquare (double a) {
 		return a*a ;
