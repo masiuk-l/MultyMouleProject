@@ -1,5 +1,4 @@
 package by.itacademy;
-import java.lang.Math;
 //eyunets useless clas
 public class ShapesArea {
 	double calculateSquare (double a) {
@@ -11,9 +10,7 @@ public class ShapesArea {
 	}
 	
 	double calculateCircle(int radius) {
-		double square;
-		square = Math.PI * Math.pow(radius, 2);
-		return square;
+		return Math.PI * Math.pow(radius, 2);
 	}
 
 }
